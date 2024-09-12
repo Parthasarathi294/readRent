@@ -1,7 +1,9 @@
 Overview
-A RESTful API service built using Spring Boot to manage an online Book Rental System while using MySQL to persist the data.
+ 
+ A RESTful API service built using Spring Boot to manage an online Book Rental System while using MySQL to persist the data.
 
 Features
+
 Authentication and Authorization:
 Implemented using Basic Auth with two roles: USER and ADMIN.
 User Management:
